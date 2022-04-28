@@ -1,0 +1,42 @@
+.box{
+    border: 2px dashed #666;
+    width: 200px;
+    height: 200px;
+    background-color: beige;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: #dedede;
+}
+.box3{
+    text-align: center;
+    padding-top:10px;
+    margin: 5px;
+    width: 500px;
+    height: 50px;
+    background-color: #666;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+}
+.bordernone{
+    border: 3px dashed #666;
+}
+.displayText{
+    display: none;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.uncompleted-item{
+    background-color: #dc354536;
+}
+.completed-item{
+    background-color: #19875440;
+}
